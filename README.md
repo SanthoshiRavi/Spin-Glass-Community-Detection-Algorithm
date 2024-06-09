@@ -9,8 +9,6 @@ Welcome to the repository for Community Detection Using the Spin Glass Algorithm
 - [Concepts of Spin Glass Detection Algorithm](#concepts-of-spin-glass-detection-algorithm)
 - [Python Implementation](#python-implementation)
 - [Google Colab Output](#google-colab-output)
-- [How to Use](#how-to-use)
-- [References](#references)
 
 ## Introduction
 
@@ -18,11 +16,11 @@ Community detection is a fundamental problem in network science. The Spin Glass 
 
 ## Solved Example Problem
 
-The [Spin glass community detection - Solved problem.pdf](solved_example_problem.pdf) document contains a step-by-step solution to a community detection problem using the Spin Glass Algorithm. The problem considers a specific graph structure, initial spins, temperature, and probability threshold. The document walks through 5 iterations, showing how communities are identified.
+The PDF document contains a step-by-step solution to a community detection problem using the Spin Glass Algorithm. The problem considers a specific graph structure, initial spins, temperature, and probability threshold. The document walks through 5 iterations, showing how communities are identified.
 
 ## Concepts of Spin Glass Detection Algorithm
 
-The [SPIN GLASS ALGORITHM FOR COMMUNITY DETECTION.ppt](spin_glass_algorithm_concepts.ppt) PowerPoint presentation explains the key concepts of the Spin Glass Detection Algorithm, including:
+The PowerPoint presentation explains the key concepts of the Spin Glass Detection Algorithm, including:
 
 - Definition and importance of community detection.
 - The Spin Glass model and Hamiltonian.
